@@ -17,24 +17,21 @@ const keys = Object.keys(data);
     console.log(keys.length);
 
 //Objects entries
-const data = [
-    {frontend : 'Luis',backend: 'Carolina',design: 'Yesenia'},
-    {frontend : 'Carolina',backend: 'Luis',design: 'Romina'},
-    {frontend : 'Javier',backend: 'Roberto',design: 'Angel'},
-    {frontend : 'Carlos',backend: 'Lucero',design: 'Milagros'}
-]
-
-
-const entries = Object.entries(data);
-const values = Object.values(data);
-const keys = Object.keys(data);
-    console.log(entries);
-    console.log(entries.length);
-    //devuelve un objeto
-    console.log(values);
-    console.log(values.length)
-    console.log(keys);
-    console.log(keys.length);    
+// const data = [
+//     {frontend : 'Luis',backend: 'Carolina',design: 'Yesenia'},
+//     {frontend : 'Carolina',backend: 'Luis',design: 'Romina'},
+//     {frontend : 'Javier',backend: 'Roberto',design: 'Angel'},
+//     {frontend : 'Carlos',backend: 'Lucero',design: 'Milagros'}
+// ]
+// const entries = Object.entries(data);
+// const values = Object.values(data);
+// const keys = Object.keys(data);
+//     console.log(entries);
+//     console.log(entries.length);//devuelve un objeto
+//     console.log(values);
+//     console.log(values.length)
+//     console.log(keys);
+//     console.log(keys.length);
 
 //object values
 const data = {
